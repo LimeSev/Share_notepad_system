@@ -1,6 +1,14 @@
 # Share_notepad_system
-共享笔记协作系统
-====
-<br>
+## 共享笔记协作系统
+
 這是個好玩意,三個人一起寫個軟件<br>
 現在是打算用Python勒<br>
+***千萬記得同步自己的文件!!!!!***
+
+這裡是測試自述文件的編輯捏<br>
+`hello world`
+
+*測試自己的Python是否正確安裝*<br>
+'''Python
+print ("你好") //Python
+'''
