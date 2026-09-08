@@ -9,6 +9,6 @@
 `hello world`
 
 *測試自己的Python是否正確安裝*<br>
-'''Python
+```Python
 print ("你好") //Python
-'''
+```
