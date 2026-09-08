@@ -1,4 +1,5 @@
-# Share_notepad_system
+# Share_Notepad_System
+作者✍️:不告訴你
 ## 共享笔记协作系统
 
 這是個好玩意,三個人一起寫個軟件<br>
